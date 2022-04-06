@@ -1,4 +1,4 @@
-# Armbot_C
+# MoveAndGo
 
 ## Table of contents
 * [Repository overview](#repository-overview)
