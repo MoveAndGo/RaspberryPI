@@ -1,5 +1,5 @@
 # Raspberry PI
-#Table des matières
+# Table des matières
 - [Présentation](#pres)
 - [Initialisation](#init)
 - [Utilisation](#usage)
@@ -9,13 +9,13 @@
 # <a name="pres"/> Présentation
 
 # <a name="init"/> Initialisation
-1) Formater la carte sd et se connecter en SSH à la raspberry
+1) Formater la carte sd et se connecter en SSH à la raspberry<br>
 -> [Initialisation de la Raspberry PI](https://github.com/HandiMouv/Presentation-Generale/blob/main/DOCUMENTATION/Configuration%20Raspberry%20PI.pdf)<br>
-2) Une fois connecter en ssh. Se placer dans le repertoir ci dessous.
+2) Une fois connecter en ssh. Se placer dans le repertoir ci dessous<br>
 ```bash
 cd /etc
 ```
-3) Clone le repo
+3) Clone le repo<br>
 ```bash
 git clone https://github.com/MoveAndGo/RaspberryPI
 ```
