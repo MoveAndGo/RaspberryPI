@@ -8,6 +8,7 @@
 
 # <a name="pres"/> Présentation
 
+
 # <a name="init"/> Initialisation
 1) Formater la carte sd et se connecter en SSH à la raspberry<br>
 -> [Initialisation de la Raspberry PI](https://github.com/HandiMouv/Presentation-Generale/blob/main/DOCUMENTATION/Configuration%20Raspberry%20PI.pdf)<br>
@@ -17,7 +18,7 @@ cd /etc
 ```
 3) Clone le repo<br>
 ```bash
-git clone https://github.com/MoveAndGo/RaspberryPI
+git clone https://github.com/MoveAndGo/RaspberryPI MoveAndGo
 ```
 
 # <a name="usage"/> Utilisation
