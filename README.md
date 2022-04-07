@@ -22,7 +22,7 @@ git clone https://github.com/MoveAndGo/RaspberryPI MoveAndGo
 ```
 
 # <a name="usage"/> Utilisation
-1) Se rendre dans le répertoir<br>
+1) Se rendre dans le répertoir du repo<br>
 ```bash
 cd /etc/MoveAndGo
 ```
