@@ -20,7 +20,9 @@ bool startServerBluetooth() {
         // read data from the client
         memset(buf, 0, sizeof(buf));
         bytes_read = read(client, buf, sizeof(buf));
-
+        // le message envoye doit etre buff
+        
+        
         if( bytes_read > 0 ) {
             printf("received [%s]\n", buf);
             char src[] = "python3 client.py ";
